@@ -93,7 +93,3 @@ __________________________________________________________
 ![3](https://github.com/Elina-19/parallel-programming/tree/master/Merge%20Sort/mpi%20графики/3.png)
 
 ![4](https://github.com/Elina-19/parallel-programming/tree/master/Merge%20Sort/mpi%20графики/4.png)
-
-```
-test
-```
