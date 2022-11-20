@@ -86,9 +86,9 @@ __________________________________________________________
 
 ### Merge Sort последовательное выполнение, OMP (через sections) и MPI
 
-![1](https://github.com/Elina-19/parallel-programming/tree/master/Merge%20Sort/mpi%20графики/1.png)
+![1](/Merge%20Sort/mpi%20графики/1.png)
 
-![2](https://github.com/Elina-19/parallel-programming/tree/master/Merge%20Sort/mpi%20графики/2.png)
+![2](Merge%20Sort/mpi%20графики/2.png)
 
 ![3](https://github.com/Elina-19/parallel-programming/tree/master/Merge%20Sort/mpi%20графики/3.png)
 
